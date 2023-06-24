@@ -23,7 +23,19 @@ int main() {
 }
 
 ```
+```
+Entropy = 7.990144 bits per byte.
 
+Optimum compression would reduce the size
+of this 469842 byte file by 0 percent.
+
+Chi square distribution for 469842 samples is 6481.037481, and randomly
+would exceed this value less than 0.01 percent of the times.
+
+Arithmetic mean value of data bytes is 127.740998 (127.500000 = random).
+Monte Carlo value for Pi is 3.104039 (error 1.195363 percent).
+Serial correlation coefficient is -0.016080 (totally uncorrelated = 0.0).
+```
 ## Clone and build an example with ent.hpp
 
 ```
